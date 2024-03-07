@@ -49,6 +49,8 @@ This will act much like the cartidge slot of a video game system. We will create
 
 ![Cartridge System](images/atari.png)
 
+> <small>LEGO (n.d.). LEGO Atari® 2600. Retrieved March 7, 2024, from https://www.lego.com/en-ca/product/atari-2600-10306</small>
+
 ### XY Controller, Dial, and Buttons (3rd tier)
 
 Based on the current cartrideg, these components function will change. 
