@@ -34,10 +34,10 @@ Keep in mind the following:
 Students from the Web Development program will be writing the code for the control panel and determining how many switches, dials, and buttons the panel will have. Here are the required buttons, levers, and inputs as well as their hierarchy:
 
 - Main power switch
-  - 1 cartridge slot
-  - 1 XY joystick control
-  - 1 dial
-  - 3 buttons
+    - 1 cartridge slot
+        - 1 XY joystick control
+        - 1 dial
+        - 3 buttons
  
 ![Control Panel Components](images/layout.png)
 
