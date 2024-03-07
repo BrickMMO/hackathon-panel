@@ -4,11 +4,24 @@
 
 [BrickMMO](http://brickmmo.com/) needs your help making a control panel for the [BrickMMO](https://brickmmo.com/) Smart City. 
 
-The goal of this hackathon is to create a video as similar as possible to this short video:
+The goal of this hackathon is to design a control panel that will allow observers to interact with the BrickMMO Smart City built with LEGO® bricks:
 
-<video width="270" height="480" controls>
-    <source src="videos/jake-sully-brickheadz.mp4" type="video/mp4">
-</video>
+ - Open and cloase the lifting bridge
+ - Turn on and off the train
+ - Turn on and off the lighting
+ - Drive a car around town
+
+Students from the Web Development program will be writing the code for the control panel and determining how many switches, dials, and buttons the panel will have. Here are the required buttons, levers, and inputs as well as their hierarchy:
+
+- Main power switch
+- 1 cartridge slot
+    - 1 XY joystick control
+    - 1 dial
+    - 3 buttons
+ 
+  
+
+
 
 You will be provided with everything you need to shoot and edit this video within three to six hours. This includes:
 
