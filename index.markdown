@@ -47,6 +47,8 @@ Students from the Web Development program will be writing the code for the contr
 
 This will act as the city's main power switch. This will turn the complete city on and off. If the main power switch if off, all systems in the city will shut down and all other control panel components will be inactive.
 
+> Note: Consider that the main switch will need space around it for mobility.
+
 ### Cartridge Slot (2nd tier(
 
 This will act much like the cartidge slot of a video game system. We will create approximately eight cartridges. They will each be correlated to a system: roads, power, trains, etc... The function of the third tier components (XY controller, dials, buttons) will be correlated to the cartridge. For example, If the **roads** cartridge is inserted, the first button might control a lifting bridge, if the trains cartrige is inserted, the same button could control a train turnout. 
@@ -58,6 +60,8 @@ This will act much like the cartidge slot of a video game system. We will create
 ### XY Controller, Dial, and Buttons (3rd tier)
 
 Based on the current cartrideg, these components function will change. 
+
+> Note: Consider that the XY controller will need space around it for easy access and mobility.
 
 ## Steps
 
