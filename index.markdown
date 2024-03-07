@@ -59,53 +59,13 @@ Based on the current cartrideg, these components function will change.
 
 This hackathon will span one approximate five hour session. 
 
-Your goal is do design a visually striking, ergonomically sound, control panel that satisfies the specifications provided by the Web Development students. 
+1) Everyone will receive a quick introduction to the BrickMMO project and a tour of the Smart City. 
 
+2) We will discuss the control panel requirements. You will have a chance to ask any questions to the project researchers and students from the Web Development program. 
+  
+3) In groups, you will use your preferred methond to design and mockup the control panel. This can include sketches or renderings.
 
-
-One three hour session for shooting. This will take place at Humber in the Virtual Propduction room CTI307. One three hour session for editing. This will take place during a regular class. And finally a short 20 minute session to present the videos and choose a winner!
-
-### Day One: Shooting
-
-1) Watch the sample video multiple times. Pay attention to the lighting, sounds, camera placement, timing, etc...
-
-2) Choose a LEGO® Brickheadz™ kit provided by your instructor.
-
-  ![Disney 100th Celebration BrickHeadz](images/brickheadz.png)
-
-  > <small>LEGO (n.d.). LEGO Disney 100th Celebration. Retrieved March 2, 2024, from https://www.lego.com/en-ca/product/disney-100th-celebration-40622</small>
-
-4) Prepare your photo environment. Use the following setup:
-
-![Equipment Layout](images/layout.png)
-
-5) Shoot the video. Include the following shots:
-
-  - Dropping the kit into the frame
-  - Opening the box using a box cutter
-  - Dumping out the contents of the box
-  - Dumping out the contents of one of the bags
-  - Looking through the instructions
-  - Bulding the LEGO® kit (about 12 shots)
-  - The completed LEGO® kit on the table
-  - The original LEGO® box
-  - The compelted LEGO® kit in your hand
-
-### Day Two: Editing
-
-1) Download the original [Adobe Premiere] file. 
-
-2) Import your shots into the Premiere file.
-
-3) Attempt to replicate the original video as close as possible. 
-
-4) Export your video as a 1080 pixel wide x 1920 pixel high vertical video.
-
-## Submission and Presentation
-
-When you have completed the video, Zip up your Adobe Premiere file and final video and email them to your instructor. 
-
-Once we have received all video submissions we will meetup again at the beginning of a regular class, present the videos, and choose a winner! The winning group will receive one of the many LEGO® GWP kits. 
+4) Each groups will have approximately 5 minutes to present their concept and a winning group will be chosen. The winning group will receive one of the many LEGO® GWP kits. 
 
 ![LEGO® GWP](images/lego-gwp.png)
 
@@ -121,8 +81,3 @@ Once we have received all video submissions we will meetup again at the beginnin
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
-
-
-
-
-> <small>LEGO, the LEGO logo and the Minifigure are trademarks of the LEGO Group. LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
