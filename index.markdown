@@ -39,6 +39,8 @@ Students from the Web Development program will be writing the code for the contr
   - 1 dial
   - 3 buttons
  
+![Control Panel Components](images/layout.png)
+ 
 ### Main Power Switch (1st tier)
 
 This will act as the city's main power switch. This will turn the complete city on and off. If the main power switch if off, all systems in the city will shut down and all other control panel components will be inactive.
