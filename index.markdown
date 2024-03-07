@@ -40,6 +40,8 @@ Students from the Web Development program will be writing the code for the contr
   - 3 buttons
  
 ![Control Panel Components](images/layout.png)
+
+> Note: This image does not reflect any required layout. This image is only to show the list of required components.
  
 ### Main Power Switch (1st tier)
 
