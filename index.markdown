@@ -69,6 +69,8 @@ Based on the current cartridge, the function of these components will change.
 
 ![Atari Controller](images/controller.png)
 
+> <small>LEGO (n.d.). LEGO Atari® 2600. Retrieved March 7, 2024, from https://www.lego.com/en-ca/product/atari-2600-10306</small>
+
 ## Steps
 
 This hackathon will span one approximate five hour session. 
