@@ -11,6 +11,8 @@ The goal of this hackathon is to design a visually striking, ergonomically sound
  - Turn on and off the lighting
  - Drive a car around town
 
+The control panel will sit on a small table in the classroom or in the hallway. The control panel should be no larger than 60 cm by 30 cm.
+
 ## Design Criteria
 
 When designing the control panel, take into account the following:
@@ -56,6 +58,8 @@ This will act much like the cartidge slot of a video game system. We will create
 ![Cartridge System](images/atari.png)
 
 > <small>LEGO (n.d.). LEGO Atari® 2600. Retrieved March 7, 2024, from https://www.lego.com/en-ca/product/atari-2600-10306</small>
+
+Cartridges will be approximately two studs (1.6 cm) by 10 studs (8 cm) by 10 studs (8 cm).
 
 ### XY Controller, Dial, and Buttons (3rd tier)
 
