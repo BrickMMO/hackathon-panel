@@ -4,9 +4,9 @@
 
 [BrickMMO](http://brickmmo.com/) needs your help making a control panel for the [BrickMMO](https://brickmmo.com/) Smart City. 
 
-The goal of this hackathon is to design a visually striking, ergonomically sound, control panel that satisfies the specifications provided by the Web Development students. This control panl will allow observers to interact with the BrickMMO Smart City built with LEGO® bricks:
+The goal of this hackathon is to design a visually striking, ergonomically sound, control panel that satisfies the specifications provided by the Web Development students. This control panel will allow observers to interact with the BrickMMO Smart City built with LEGO® bricks:
 
- - Open and cloase the lifting bridge
+ - Raise and lower the lifting bridge
  - Turn on and off the train
  - Turn on and off the lighting
  - Drive a car around town
@@ -31,7 +31,7 @@ Keep in mind the following:
 
 ## Panel Components
 
-Students from the Web Development program will be writing the code for the control panel and determining how many switches, dials, and buttons the panel will have. Here are the required buttons, levers, and inputs as well as their hierarchy:
+Students from the Web Development program will be writing the code for the control panel and have determined how many switches, dials, and buttons the panel will have. Here are the required buttons, levers, and inputs as well as their hierarchy:
 
 - Main power switch
     - 1 cartridge slot
@@ -59,7 +59,7 @@ This will act much like the cartidge slot of a video game system. We will create
 
 ### XY Controller, Dial, and Buttons (3rd tier)
 
-Based on the current cartrideg, these components function will change. 
+Based on the current cartridge, the function of these components will change. 
 
 > Note: Consider that the XY controller will need space around it for easy access and mobility.
 
@@ -71,7 +71,7 @@ This hackathon will span one approximate five hour session.
 
 2) We will discuss the control panel requirements. You will have a chance to ask any questions to the project researchers and students from the Web Development program. 
   
-3) In groups, you will use your preferred methond to design and mockup the control panel. This can include sketches or renderings.
+3) In groups, you will use your preferred method to design and mockup the control panel. This can include sketches or renderings.
 
 4) Each groups will have approximately 5 minutes to present their concept and a winning group will be chosen. The winning group will receive one of the many LEGO® GWP kits. 
 
