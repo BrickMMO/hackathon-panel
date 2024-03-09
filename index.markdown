@@ -1,4 +1,4 @@
-# hackathon-shorts
+# hackathon-panel
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
