@@ -67,6 +67,8 @@ Based on the current cartridge, the function of these components will change.
 
 > Note: Consider that the XY controller will need space around it for easy access and mobility.
 
+![Atari Controller](images/controller.png)
+
 ## Steps
 
 This hackathon will span one approximate five hour session. 
