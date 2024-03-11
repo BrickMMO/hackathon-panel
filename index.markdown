@@ -17,7 +17,7 @@ The control panel will sit on a small table in the classroom or in the hallway. 
 
 When designing the control panel, take into account the following:
 
-- Your final deliverables for this hackathon are your renderings (3D CAD and technical drawings).
+- Your final deliverables for this hackathon are your renderings (concept drawings in the form of marker renderings).
 - The final control panel will be built with LEGO® bricks. Keep this in mind, but don’t let this limit your imagination.
 - Check out the smart city built with LEGO® bricks. Use it for some inspiration. 
 - Design must address human factors and consider Universal Design, i.e. be comfortable to use, not **hostile**.
