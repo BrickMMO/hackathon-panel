@@ -53,7 +53,7 @@ This will act as the city's main power switch. This will turn the complete city 
 
 ### Cartridge Slot (2nd tier(
 
-This will act much like the cartidge slot of a video game system. We will create approximately eight cartridges. They will each be correlated to a system: roads, power, trains, etc... The function of the third tier components (XY controller, dials, buttons) will be correlated to the cartridge. For example, If the **roads** cartridge is inserted, the first button might control a lifting bridge, if the trains cartrige is inserted, the same button could control a train turnout. 
+This will act much like the cartridge slot of a video game system. We will create approximately eight cartridges. They will each be correlated to a system: roads, power, trains, etc... The function of the third tier components (XY controller, dials, buttons) will be correlated to the cartridge. For example, If the **roads** cartridge is inserted, the first button might control a lifting bridge, if the trains cartridge is inserted, the same button could control a train turnout. 
 
 ![Cartridge System](images/atari.png)
 
